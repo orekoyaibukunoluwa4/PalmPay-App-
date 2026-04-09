@@ -22,7 +22,7 @@ The document is formatted as a professional Word file (.docx) with consistent br
 
 - **Microsoft Word / docx.js** — document structure and formatting
 - **PalmPay app** — source of screenshots and workflow
-- 
+  
 ---
 ## Author
 
